@@ -11,11 +11,11 @@ The user can:
  - Find a shortest TSP tour
  - Find the approx TSP using shortcuts
  <br />An example of a graph.txt file can be seen below:
-6
-2 1 5 5 6
-2 0 5 2 3
-3 1 3 3 4 5 2
-2 2 4 4 5
-2 3 5 5 7
-3 0 6 2 2 4 7
+<br />6
+<br />2 1 5 5 6
+<br />2 0 5 2 3
+<br />3 1 3 3 4 5 2
+<br />2 2 4 4 5
+<br />2 3 5 5 7
+<br />3 0 6 2 2 4 7
 
