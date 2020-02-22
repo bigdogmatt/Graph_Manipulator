@@ -9,8 +9,9 @@ The user can:
  - Make the graph metric
  - Find the shortest path from one node to all other nodes
  - Find a shortest TSP tour
- - Find the approx TSP using shortcuts
- <br />An example of a graph.txt file can be seen below:
+ - Find the approx TSP using shortcuts 
+ 
+<br />An example of a graph.txt file can be seen below:
 <br />6
 <br />2 1 5 5 6
 <br />2 0 5 2 3
